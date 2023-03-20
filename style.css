@@ -154,3 +154,77 @@ course styles
 }
 
 }
+
+/* navigation var */
+
+nav {
+    background-color: #562EFF;
+    height: 94px;
+    width: 1440px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+
+}
+
+.logo img {
+    position: absolute;
+    width: 40px;
+    height: 51px;
+    left: 285px;
+    top: 26px;
+
+}
+
+.logo-text {
+
+    position: absolute;
+    width: 54px;
+    height: 36px;
+    left: 341px;
+    top: 20px;
+    border-radius: nullpx;
+
+    color: #FFFFFF;
+}
+
+.pro-img {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 1100px;
+    top: 23px;
+
+}
+
+.nav-tag-1 {
+    position: absolute;
+    width: 48px;
+    height: 24px;
+    left: 847px;
+    top: 35px;
+    color: #FFFFFF;
+}
+
+.nav-tag-2 {
+    position: absolute;
+    width: 48px;
+    height: 24px;
+    left: 931px;
+    top: 35px;
+    color: #FFFFFF;
+}
+
+.nav-tag-3 {
+    position: absolute;
+    width: 49px;
+    height: 24px;
+    left: 1015px;
+    top: 35px;
+    color: #FFFFFF;
+}
+
+.info a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
